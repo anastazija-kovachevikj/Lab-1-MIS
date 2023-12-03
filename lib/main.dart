@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
       theme: theme,
       darkTheme: theme,
       themeMode: ThemeMode.system,
-      home: ListSubjects(), // Use a SplashScreen widget
+      home: ListSubjects(),
     );
   }
 }
